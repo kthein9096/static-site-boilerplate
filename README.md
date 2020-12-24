@@ -1,6 +1,6 @@
 # static-site-boilerplate
 
-A boilerplate for my static HTML, CSS, JS sites
+A boilerplate for my static HTML, CSS, JS sites.
 
 ## Setup
 
